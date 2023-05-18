@@ -61,5 +61,6 @@ http://www.mulesoft.org/schema/mule/sap http://www.mulesoft.org/schema/mule/sap/
 			<sap:message-server host="${sap.messageserverhost}" systemId="${sap.systemid}" port="${sap.messageserverport}" group="${sap.messagingservergroupname}" />
 		</sap:simple-connection-provider-connection>
 	</sap:sap-config>
+	<global-property doc:name="Global Property" doc:id="057a8b2a-8777-4885-98ac-9d1420e72dba" name="mule.key" value="123456789iewcsap" />
 
 </mule>
