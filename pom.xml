@@ -40,7 +40,7 @@
 						<connectedAppClientId>${connectedAppClientId}</connectedAppClientId>
 						<connectedAppClientSecret>${connectedAppClientSecret}</connectedAppClientSecret>
 						<connectedAppGrantType>client_credentials</connectedAppGrantType>
-						<applicationName>${sbAppName}</applicationName>
+						<applicationName>${applicationName}</applicationName>
 						<environment>${sbEnv}</environment>
 						<workers>${workers}</workers>
 						<workerType>${workerType}</workerType>
